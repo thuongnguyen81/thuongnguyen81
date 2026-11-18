@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <clipPath id="clip"><rect width="1200" height="360" rx="12"/></clipPath>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
+  
+</defs>
+<style>
+  .in{animation:in .7s ease-out both}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .soft{animation:soft 2.4s ease-in-out infinite}
+  @keyframes soft{50%{opacity:.35}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="360" fill="#0D1117"/>
+  <line x1="400" y1="0" x2="400" y2="360" stroke="#21262D"/><line x1="800" y1="0" x2="800" y2="360" stroke="#21262D"/><line x1="0" y1="180" x2="1200" y2="180" stroke="#21262D"/><g class="in" style="animation-delay:0.1s">
+      <text x="36" y="50" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">01</text>
+      <text x="36" y="84" font-size="18" font-weight="600" fill="#E6EDF3">Full-stack Engineering</text>
+      <text x="36" y="116" font-size="14" fill="#8B949E">TypeScript, Python and SQL across UI,</text>
+      <text x="36" y="138" font-size="14" fill="#8B949E">APIs, data and background jobs.</text>
+    </g><g class="in" style="animation-delay:0.17s">
+      <text x="436" y="50" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">02</text>
+      <text x="436" y="84" font-size="18" font-weight="600" fill="#E6EDF3">Business Systems</text>
+      <text x="436" y="116" font-size="14" fill="#8B949E">Domain modelling for CMS, CRM and ERP —</text>
+      <text x="436" y="138" font-size="14" fill="#8B949E">roles, approvals, workflows, reports.</text>
+    </g><g class="in" style="animation-delay:0.24000000000000002s">
+      <text x="836" y="50" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">03</text>
+      <text x="836" y="84" font-size="18" font-weight="600" fill="#E6EDF3">AI Automation</text>
+      <text x="836" y="116" font-size="14" fill="#8B949E">LLM agents and automation workflows</text>
+      <text x="836" y="138" font-size="14" fill="#8B949E">that take repetitive work off the team.</text>
+    </g><g class="in" style="animation-delay:0.31000000000000005s">
+      <text x="36" y="230" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">04</text>
+      <text x="36" y="264" font-size="18" font-weight="600" fill="#E6EDF3">Cloud &amp; DevOps</text>
+      <text x="36" y="296" font-size="14" fill="#8B949E">Docker, Kubernetes, S3 / R2 storage</text>
+      <text x="36" y="318" font-size="14" fill="#8B949E">and CI/CD pipelines to production.</text>
+    </g><g class="in" style="animation-delay:0.38s">
+      <text x="436" y="230" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">05</text>
+      <text x="436" y="264" font-size="18" font-weight="600" fill="#E6EDF3">Odoo &amp; Integrations</text>
+      <text x="436" y="296" font-size="14" fill="#8B949E">Odoo modules, REST APIs and third-party</text>
+      <text x="436" y="318" font-size="14" fill="#8B949E">services connected into one flow.</text>
+    </g><g class="in" style="animation-delay:0.45000000000000007s">
+      <text x="836" y="230" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#58A6FF">06</text>
+      <text x="836" y="264" font-size="18" font-weight="600" fill="#E6EDF3">Product &amp; UI/UX</text>
+      <text x="836" y="296" font-size="14" fill="#8B949E">Clear dashboards and admin tools that</text>
+      <text x="836" y="318" font-size="14" fill="#8B949E">operators are happy to use every day.</text>
+    </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="359" rx="12" fill="none" stroke="#21262D"/>
+</svg>

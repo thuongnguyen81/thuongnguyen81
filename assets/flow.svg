@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <clipPath id="clip"><rect width="1200" height="170" rx="12"/></clipPath>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
+  
+</defs>
+<style>
+  .in{animation:in .7s ease-out both}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .soft{animation:soft 2.4s ease-in-out infinite}
+  @keyframes soft{50%{opacity:.35}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="170" fill="#0D1117"/>
+  
+  <line x1="110" y1="62" x2="1090" y2="62" stroke="#30363D"/>
+  <line x1="110" y1="62" x2="110" y2="62" stroke="#58A6FF" stroke-width="1.5">
+    <animate attributeName="x2" values="110;1090;1090" keyTimes="0;.7;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.85;1" dur="6s" repeatCount="indefinite"/>
+  </line>
+  <g class="in" style="animation-delay:0.1s">
+      <circle cx="110" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="110" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">1</text>
+      <text x="110" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Discover</text>
+      <text x="110" y="130" font-size="13" fill="#8B949E" text-anchor="middle">Business needs</text>
+    </g><g class="in" style="animation-delay:0.17s">
+      <circle cx="306" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="306" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">2</text>
+      <text x="306" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Model</text>
+      <text x="306" y="130" font-size="13" fill="#8B949E" text-anchor="middle">Data, roles, flows</text>
+    </g><g class="in" style="animation-delay:0.24000000000000002s">
+      <circle cx="502" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="502" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">3</text>
+      <text x="502" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Build</text>
+      <text x="502" y="130" font-size="13" fill="#8B949E" text-anchor="middle">Full-stack apps</text>
+    </g><g class="in" style="animation-delay:0.31000000000000005s">
+      <circle cx="698" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="698" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">4</text>
+      <text x="698" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Integrate</text>
+      <text x="698" y="130" font-size="13" fill="#8B949E" text-anchor="middle">APIs, Odoo, data</text>
+    </g><g class="in" style="animation-delay:0.38s">
+      <circle cx="894" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="894" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">5</text>
+      <text x="894" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Automate</text>
+      <text x="894" y="130" font-size="13" fill="#8B949E" text-anchor="middle">AI workflows</text>
+    </g><g class="in" style="animation-delay:0.45000000000000007s">
+      <circle cx="1090" cy="62" r="14" fill="#0D1117" stroke="#30363D"/>
+      <text x="1090" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#C9D1D9" text-anchor="middle">6</text>
+      <text x="1090" y="108" font-size="15.5" font-weight="600" fill="#E6EDF3" text-anchor="middle">Deploy</text>
+      <text x="1090" y="130" font-size="13" fill="#8B949E" text-anchor="middle">Docker, K8s, CI/CD</text>
+    </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="169" rx="12" fill="none" stroke="#21262D"/>
+</svg>
