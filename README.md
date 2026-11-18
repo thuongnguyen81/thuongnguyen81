@@ -14,7 +14,7 @@
 <br/><br/>
 
 <img src="assets/h-build.svg" width="100%" alt="01 — What I Work On" />
-<img src="assets/build.svg" width="100%" alt="Leading the AI team · Multi-agent chatbot · MCP tool layer · Root-cause tracing · Prompt caching · Quality gates" />
+<img src="assets/build.svg" width="100%" alt="Multi-agent chatbot · Root-cause tracing · Prompt caching" />
 
 <br/><br/>
 
