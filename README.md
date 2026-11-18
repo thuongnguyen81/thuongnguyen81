@@ -7,24 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=thuongnguyen81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="AI Team Lead at DFC Flow · 30+ agents · 300+ tools · AMOIQ" />
+<img src="assets/highlights.svg" width="100%" alt="1,600+ merged PRs since Feb 2026 · 11 repos · 30+ agents and 300+ tools behind one router · prompt tokens read from cache 0% → 80%" />
 
 <img src="https://raw.githubusercontent.com/zaden81/zaden81/main/watermelon-banner.png" width="100%" alt="" />
 
 <br/><br/>
 
 <img src="assets/h-build.svg" width="100%" alt="01 — What I Work On" />
-<img src="assets/build.svg" width="100%" alt="Leading the AI team · Multi-agent chatbot · MCP tool layer · Production reliability · Quality gates · Cross-area work" />
+<img src="assets/build.svg" width="100%" alt="Leading the AI team · Multi-agent chatbot · MCP tool layer · Root-cause tracing · Prompt caching · Quality gates" />
 
 <br/><br/>
 
 <img src="assets/h-stack.svg" width="100%" alt="02 — Tech Stack" />
-<img src="assets/stack.svg" width="100%" alt="LLM & Agents: Claude, OpenAI, LangGraph, MCP · Backend: Python, FastAPI, Node.js · Frontend: Next.js, TypeScript · Data: PostgreSQL · Ship & Test: Fly.io, Playwright" />
-
-<br/><br/>
-
-<img src="assets/h-flow.svg" width="100%" alt="03 — Process" />
-<img src="assets/flow.svg" width="100%" alt="Plan → Build → Review → Verify → Release → Trace" />
+<img src="assets/stack.svg" width="100%" alt="LLM & Agents: Claude, OpenAI, Gemini, LangGraph, MCP · Backend: Python, FastAPI, Node.js · Frontend: TypeScript, Next.js, React · Data: PostgreSQL, Redis · Ship & Test: Docker, Fly.io, GitHub Actions, Playwright" />
 
 <br/>
 
