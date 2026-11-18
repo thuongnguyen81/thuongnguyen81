@@ -1,47 +1,33 @@
-<img src="assets/hero.svg" width="100%" alt="Richard Huynh — Software Engineer / Full-stack" />
+<img src="assets/hero.svg" width="100%" alt="Nguyen Hoai Thuong — AI Team Lead / DFC Flow" />
 
 <p align="center">
-  <a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/dookei.dev-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/dokhaidev"><img src="https://img.shields.io/badge/dokhaidev-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://facebook.com/dokhai0865"><img src="https://img.shields.io/badge/dokhai0865-161B22?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/dookei__"><img src="https://img.shields.io/badge/dookei__-161B22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dokhaidev&style=flat-square&color=30363D&label=views" alt="Profile views" />
+  <a href="https://github.com/DFCflow"><img src="https://img.shields.io/badge/org-DFCflow-161B22?style=flat-square&logo=github&logoColor=white" alt="DFC Flow organization" /></a>
+  <a href="https://github.com/zaden81"><img src="https://img.shields.io/badge/personal-zaden81-161B22?style=flat-square&logo=github&logoColor=white" alt="Personal account" /></a>
+  <a href="https://hoaithuong81.id.vn/"><img src="https://img.shields.io/badge/hoaithuong81.id.vn-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thuongnguyen81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="Full-stack · CMS / CRM / ERP · AI automation · Amoiq" />
+<img src="assets/highlights.svg" width="100%" alt="AI Team Lead at DFC Flow · 30+ agents · 300+ tools · AMOIQ" />
+
+<img src="https://raw.githubusercontent.com/zaden81/zaden81/main/watermelon-banner.png" width="100%" alt="" />
 
 <br/><br/>
 
-<img src="assets/h-about.svg" width="100%" alt="01 — About" />
-<img src="assets/about.svg" width="100%" alt="Full-stack Engineering · Business Systems · AI Automation · Cloud & DevOps · Odoo & Integrations · Product & UI/UX" />
+<img src="assets/h-build.svg" width="100%" alt="01 — What I Work On" />
+<img src="assets/build.svg" width="100%" alt="Leading the AI team · Multi-agent chatbot · MCP tool layer · Production reliability · Quality gates · Cross-area work" />
 
 <br/><br/>
 
 <img src="assets/h-stack.svg" width="100%" alt="02 — Tech Stack" />
-<img src="assets/stack.svg" width="100%" alt="Languages · Frontend · Backend · Database · Business Platforms · AI & Automation · Cloud & DevOps · Tools" />
+<img src="assets/stack.svg" width="100%" alt="LLM & Agents: Claude, OpenAI, LangGraph, MCP · Backend: Python, FastAPI, Node.js · Frontend: Next.js, TypeScript · Data: PostgreSQL · Ship & Test: Fly.io, Playwright" />
 
 <br/><br/>
 
-<img src="assets/h-build.svg" width="100%" alt="03 — What I Build" />
-<img src="assets/build.svg" width="100%" alt="CMS · CRM · ERP · Business Operations · AI Workflow Automation · Odoo Solutions" />
-
-<br/><br/>
-
-<img src="assets/h-flow.svg" width="100%" alt="04 — Process" />
-<img src="assets/flow.svg" width="100%" alt="Discover → Model → Build → Integrate → Automate → Deploy" />
-
-<br/><br/>
-
-<img src="assets/h-stats.svg" width="100%" alt="05 — Activity" />
-
-<p align="center">
-<br/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dokhaidev&theme=github_dark" alt="Stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dokhaidev&theme=github_dark" alt="Languages" />
-<br/>
-<img height="165" src="https://streak-stats.demolab.com?user=dokhaidev&background=0D1117&border=21262D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="Streak" />
-</p>
+<img src="assets/h-flow.svg" width="100%" alt="03 — Process" />
+<img src="assets/flow.svg" width="100%" alt="Plan → Build → Review → Verify → Release → Trace" />
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Building clean, reliable software — one commit at a time." />
+<img src="assets/footer.svg" width="100%" alt="From zero to deployed — AI that actually works." />
+
+<p align="center"><sub>Most of my work lives in private <a href="https://github.com/DFCflow">DFCflow</a> repositories. Side projects and experiments: <a href="https://github.com/zaden81">@zaden81</a>.</sub></p>

@@ -13,22 +13,22 @@
   @keyframes soft{50%{opacity:.35}}</style>
 <g clip-path="url(#clip)">
   <rect width="1200" height="120" fill="#0D1117"/>
-  
-    <g class="in" style="animation-delay:0.1s">
-      <text x="40" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">Full-stack</text>
-      <text x="40" y="88" font-size="13.5" fill="#8B949E">Frontend · Backend · Infra</text>
+
+    <g class="in" style="animation-delay:0.10s">
+      <text x="40" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">AI Team Lead</text>
+      <text x="40" y="88" font-size="13.5" fill="#8B949E">DFC Flow · since Mar 2026</text>
     </g><line x1="300" y1="28" x2="300" y2="92" stroke="#21262D"/>
-    <g class="in" style="animation-delay:0.18s">
-      <text x="340" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">CMS · CRM · ERP</text>
-      <text x="340" y="88" font-size="13.5" fill="#8B949E">Business platforms</text>
+    <g class="in" style="animation-delay:0.17s">
+      <text x="340" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">30+ agents</text>
+      <text x="340" y="88" font-size="13.5" fill="#8B949E">One router, specialist agents</text>
     </g><line x1="600" y1="28" x2="600" y2="92" stroke="#21262D"/>
-    <g class="in" style="animation-delay:0.26s">
-      <text x="640" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">AI</text>
-      <text x="640" y="88" font-size="13.5" fill="#8B949E">Automation workflows</text>
+    <g class="in" style="animation-delay:0.24s">
+      <text x="640" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">300+ tools</text>
+      <text x="640" y="88" font-size="13.5" fill="#8B949E">15+ MCP business modules</text>
     </g><line x1="900" y1="28" x2="900" y2="92" stroke="#21262D"/>
-    <g class="in" style="animation-delay:0.33999999999999997s">
-      <text x="940" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">Amoiq</text>
-      <text x="940" y="88" font-size="13.5" fill="#8B949E">Current company</text>
+    <g class="in" style="animation-delay:0.31s">
+      <text x="940" y="60" font-size="26" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">AMOIQ</text>
+      <text x="940" y="88" font-size="13.5" fill="#8B949E">Commerce · CRM · ERP</text>
     </g>
 </g>
 <rect x=".5" y=".5" width="1199" height="119" rx="12" fill="none" stroke="#21262D"/>
